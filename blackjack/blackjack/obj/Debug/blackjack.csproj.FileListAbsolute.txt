@@ -1,0 +1,12 @@
+C:\Users\DSU\source\repos\blackjack\blackjack\bin\Debug\blackjack.exe.config
+C:\Users\DSU\source\repos\blackjack\blackjack\bin\Debug\blackjack.exe
+C:\Users\DSU\source\repos\blackjack\blackjack\bin\Debug\blackjack.pdb
+C:\Users\DSU\source\repos\blackjack\blackjack\obj\Debug\blackjack.csprojAssemblyReference.cache
+C:\Users\DSU\source\repos\blackjack\blackjack\obj\Debug\blackjack.Game_start.resources
+C:\Users\DSU\source\repos\blackjack\blackjack\obj\Debug\blackjack.Properties.Resources.resources
+C:\Users\DSU\source\repos\blackjack\blackjack\obj\Debug\blackjack.csproj.GenerateResource.cache
+C:\Users\DSU\source\repos\blackjack\blackjack\obj\Debug\blackjack.csproj.CoreCompileInputs.cache
+C:\Users\DSU\source\repos\blackjack\blackjack\obj\Debug\blackjack.exe
+C:\Users\DSU\source\repos\blackjack\blackjack\obj\Debug\blackjack.pdb
+C:\Users\DSU\source\repos\blackjack\blackjack\obj\Debug\blackjack.Game_hand.resources
+C:\Users\DSU\source\repos\blackjack\blackjack\obj\Debug\blackjack.Bet_input.resources
